@@ -2,37 +2,39 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Homework 4 - Photomontage 1</title>
+  <title>Homework 4  Photomontage</title>
 </head>
 <body>
-  <h1>Homework 4 - Photomontage 1</h1>
+  <h1>Homework 4  Photomontage</h1>
 
-  <h2>Final Photomontage</h2>
-  <img src="1 photomontage.jpg" alt="Photomontage 1" width="600">
+  <h2>Final Photomontage 1</h2>
+  <img src="1_photomontage.jpg" alt="Photomontage 1" width="600">
 
-  <h2>Layers Screenshot</h2>
-  <img src="1 photomontage screenshot .PNG" alt="Layers Screenshot 1" width="600">
+  <h2>Layers Screenshot 1</h2>
+  <img src="1_photomontage_screenshot.png" alt="Layers Screenshot 1" width="600">
 
-  <h2>Why this picture?? </h2>
-  <p>This photomontage combines three different moments and places. The background photo 
-    of me in the blue dress was taken in Cape May, New Jersey, on a very sunny and hot day.
-    The photo of my hand holding the camera was shot in my classroom. The image displayed 
-    inside the camera was taken a few days earlier by Angelene in the school auditorium. By 
-    merging these three photos, I created a single image that brings together very different settings.
+  <h2>Why this picture?</h2>
+  <p>This photomontage combines three different moments and places. 
+The background photo of me in the blue dress was taken in Cape May, New Jersey( I mention in the 
+first reflection)on a very sunny and hot day. The photo of my hand holding the camera was shot in 
+my classroom. The image displayed inside the camera was taken a few days earlier by Angelene in 
+the school auditorium. By merging these three photos, I created a single image that brings together
+very different settings.</p>
 
-    My goal with this photomontage is to show how the images we see through a camera are not always 
-    real. In today’s digital world, many things we see in photos can be edited or staged. By combining
-    and manipulating these pictures, I wanted to remind viewers not to fully believe everything 
-    in a photograph, what appears on the screen may not be the full truth!!! </p>
+  <p>My goal with this photomontage is to show how the images we see through a camera are not always real. 
+In today’s digital world, many things we see in photos can be edited or staged. By combining and manipulating 
+these pictures, I wanted to remind viewers not to fully believe everything in a photograph,
+what appears on the screen may not be the full truth!! </p>
 
   <h2>Photomontage 2</h2>
-  <img src="2 photomontage.jpg" width="500">
-  <img src="2 photomontage screenshot.PNG" width="500">
+  <img src="2_photomontage.jpg" alt="Photomontage 2" width="500">
+  
+  <h2>Layers Screenshot 2</h2>
+  <img src="2_photomontage_screenshot.png" alt="Layers Screenshot 2" width="500">
+
   <p>For this second photomontage, I created a playful and exaggerated image of me and my students. 
-    I built the piece by placing multiple emoji “stickers” from apple phone onto each person’s mouth
-    one by one, using masking and layering to combine them. </p>
-
-
+I built the piece by placing multiple emoji “stickers” from my phone onto each person’s mouth one by one, 
+using masking and layering to combine them.</p>
 
   <p><a href="index.html">Back to Home</a></p>
 </body>
